@@ -56238,7 +56238,7 @@ r[1]=r[1]+s[1]
 r[2]=r[2]+s[2]
 r[3]=r[3]+s[3]}}
 A.kG.prototype={
-av(){return new A.GA("Juan".toUpperCase(),B.jL,B.k)}}
+av(){return new A.GA("DESSERT\n COACH".toUpperCase(),B.jL,B.k)}}
 A.GA.prototype={
 aT(){A.Zh(A.b([B.y9,B.y8],t.lB))
 A.pl(B.dM,A.b([],t.Bl))
@@ -56302,7 +56302,7 @@ A.a_S.prototype={
 $1(a){return B.tR},
 $S:332}
 A.ml.prototype={
-av(){return new A.Lt("Juan".toUpperCase(),B.jL,B.k)}}
+av(){return new A.Lt("Dessert\n Coach".toUpperCase(),B.jL,B.k)}}
 A.Lt.prototype={
 aT(){var s=document.documentElement
 if(s!=null)s.webkitRequestFullscreen()
