@@ -56491,7 +56491,7 @@ if(r===$)r=p.r=B.cY
 s=A.a71(s,r,!1,new A.a4f(p))
 q=A.a(p.f,"bgColor")
 p.a.toString
-return A.oH(o,A.f8(A.bK(o,A.Qr(A.cV("Display",p.e,o,o),B.bV),q,o,o,n,o,o,n),o,o),s,o)}}
+return A.oH(o,A.f8(A.bK(o,A.Qr(A.cV("Display Web 1",p.e,o,o),B.bV),q,o,o,n,o,o,n),o,o),s,o)}}
 A.a4f.prototype={
 $0(){var s=this.a
 s.ao(new A.a4e(s))},
@@ -56639,7 +56639,7 @@ $0(){var s=A.eP(new A.a_O(),null,t.z)
 A.dY(this.a).dC(s)},
 $S:0}
 A.a_O.prototype={
-$1(a){return new A.kI("displayText",4,new A.wt().gIs(),null)},
+$1(a){return new A.kI("display Mobile 1",4,new A.wt().gIs(),null)},
 $S:334}
 A.kL.prototype={
 as(){return new A.GL(B.k)}}
