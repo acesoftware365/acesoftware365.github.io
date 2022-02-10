@@ -56504,13 +56504,13 @@ $S:331}
 A.mc.prototype={
 as(){return new A.L_("Dessert\n Coach".toUpperCase(),B.k)}}
 A.L_.prototype={
-aT(){new A.pI().yh()
-this.bj()},
+aT(){this.bj()},
 n(a){document.webkitExitFullscreen()
 this.b1(0)},
 gdN(){var s=this.e
 return s===$?this.e=!1:s},
 K(a,b){var s,r,q=this,p=null
+new A.pI().yh()
 q.gdN()
 if(q.gdN())$.a6f()
 else $.a6g()
@@ -59340,7 +59340,7 @@ B.jJ=new A.hL(3,"justify")
 B.bP=new A.hL(4,"start")
 B.tl=new A.hL(5,"end")
 B.AK=A.b(s([B.jI,B.tj,B.tk,B.jJ,B.bP,B.tl]),A.O("o<hL>"))
-B.JJ=new A.fJ("Web Mobile Testing Apps Ver: 1.1.2",null,null,null,null,null)
+B.JJ=new A.fJ("Web Mobile Testing Apps Ver: 1.1.3",null,null,null,null,null)
 B.AL=A.b(s([B.ey,B.JJ]),t.p)
 B.AM=A.b(s([!0,!1]),t.sj)
 B.lu=A.b(s(["bind","if","ref","repeat","syntax"]),t.s)
