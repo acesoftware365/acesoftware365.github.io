@@ -64669,15 +64669,15 @@ A.a4G.prototype={
 $0(){var s,r,q=this.a
 if(q.e.a.a.length===0){q.f=!0
 q.r=A.a3(B.d.aB(25.5),244,67,54)
-q.y="Big Word | Desktop User | Enter Text First"
-q.z="Big Word | Mobile User | Enter Text First"
+q.y="Big Word:\nDesktop Or Safari Tablet User\nEnter Text First!".toUpperCase()
+q.z="Big Word\nMobile User\nEnter Text First!".toUpperCase()
 q.x=B.k}else{q.f=!1
 s=$.dG
 r=B.d.aB(25.5)
 s=s.a
 q.r=A.a3(r,s>>>16&255,s>>>8&255,s&255)
-q.y="Big Word | Desktop User"
-q.z="Big Word | Mobile User"
+q.y="Big Word:\nDesktop Or Safari Tablet User".toUpperCase()
+q.z="Big Word:\nMobile User".toUpperCase()
 q.x=$.cx}},
 $S:0}
 A.a4A.prototype={
