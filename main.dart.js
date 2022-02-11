@@ -64669,14 +64669,14 @@ A.a4G.prototype={
 $0(){var s,r,q=this.a
 if(q.e.a.a.length===0){q.f=!0
 q.r=A.a3(B.d.aB(25.5),244,67,54)
-q.y="Big Word:\nDesktop Or Safari Tablet User\nEnter Text First!".toUpperCase()
+q.y="Big Word:\nSafari Tablet User\nEnter Text First!".toUpperCase()
 q.z="Big Word\nMobile User\nEnter Text First!".toUpperCase()
 q.x=B.k}else{q.f=!1
 s=$.dG
 r=B.d.aB(25.5)
 s=s.a
 q.r=A.a3(r,s>>>16&255,s>>>8&255,s&255)
-q.y="Big Word:\nDesktop Or Safari Tablet User".toUpperCase()
+q.y="Big Word:\nSafari Tablet User".toUpperCase()
 q.z="Big Word:\nMobile User".toUpperCase()
 q.x=$.cx}},
 $S:0}
@@ -70145,9 +70145,9 @@ s($,"azv","alx",()=>A.al4(0.78)/A.al4(0.9))
 s($,"aCC","ani",()=>new A.Z4(A.w(t.N,A.R("ao<bL?>?(bL?)"))))
 s($,"aAG","amc",()=>new A.z())
 r($,"azk","aeS",()=>{var q=null
-return A.c_(q,q,B.n,q,q,q,q,q,q,q,q,q,q,B.am,q,q,!0,q,q,q,q,q,q,q,q)})
+return A.c_(q,q,B.n,q,q,q,q,q,q,q,q,2000,q,B.am,q,q,!0,q,q,q,q,q,q,q,q)})
 r($,"azl","aeT",()=>{var q=null
-return A.c_(q,q,B.k,q,q,q,q,q,q,q,q,q,q,B.am,q,q,!0,q,q,q,q,q,q,q,q)})
+return A.c_(q,q,B.k,q,q,q,q,q,q,q,q,2000,q,B.am,q,q,!0,q,q,q,q,q,q,q,q)})
 r($,"azG","alC",()=>[B.c.pI("OP Geek"),"SE ENFRENTA A 13 MIEMBROS DEL CLAN","https://www.youtube.com/watch?v=yBkIStnK_xU","1"])
 r($,"azE","alA",()=>[B.c.pI("The Flutter Way"),"Flutter Pro Animation","https://www.youtube.com/watch?v=P629-Z3py1Y","2"])
 r($,"azH","alD",()=>[B.c.pI("The Antinoti"),"\xbfSe Roban Nuestra Informaci\xf3n?","https://www.youtube.com/watch?v=ahI2zbZzkyc","2"])
