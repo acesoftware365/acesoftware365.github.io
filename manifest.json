@@ -1,11 +1,11 @@
 {
-    "name": "Acesoftware 365 Website",
-    "short_name": "Acesoftware 365 Website",
+    "name": "acesoftware_website",
+    "short_name": "acesoftware_website",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Acesoftware 365 Website",
+    "description": "Acesoftware Website.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
