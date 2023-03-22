@@ -31905,9 +31905,9 @@ ak(){return new A.FI(B.k)}}
 A.FI.prototype={
 M(a){return B.CW}}
 A.An.prototype={
-M(a){return new A.qU(B.y7,"Ace software Website vrs 1",A.aak(null,B.qJ,null),!1,null)}}
+M(a){return new A.qU(B.y7,"Ace software Website vrs 3",A.aak(null,B.qJ,null),!1,null)}}
 A.Ao.prototype={
-M(a){var s=null,r="images/img_192.png",q=t.F,p=A.a6n(A.b([B.u9,A.tA(A.a8Z(r),56,s),B.IH],q),B.ey,B.fj)
+M(a){var s=null,r="assets/images/img_192.png",q=t.F,p=A.a6n(A.b([B.u9,A.tA(A.a8Z(r),56,s),B.IH],q),B.ey,B.fj)
 return A.a9W(A.a89(A.b([A.YX(A.aiV("Home",B.Hj,s,s),new A.Ss()),A.YX(B.IE,new A.St()),A.YX(B.ID,new A.Su()),A.YX(B.IG,new A.Sv()),B.xY],q),B.Cc,p),B.qJ,A.M2(A.a8Z(r),s,s))}}
 A.Ss.prototype={
 $0(){},
