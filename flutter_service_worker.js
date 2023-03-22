@@ -4,7 +4,11 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "app-ads.txt": "c03dae9e11b6ba0280f1465789d18025",
-"assets/AssetManifest.json": "4d07ee7f18b17a3f2532a54fe4e1bfb4",
+"assets/AssetManifest.json": "42fdd931b9288efffecbbe3044a00fa4",
+"assets/assets/images/appStore.png": "cae84ad19efabe257a5cd410f920d2d0",
+"assets/assets/images/dominoLogo.png": "5915c2f6178c920e66a24fc3a31cefad",
+"assets/assets/images/dominoLogo1.png": "49562f10c29dc43a2fefb55120916720",
+"assets/assets/images/googleStore.png": "9b80da774e4375230551d17862d39363",
 "assets/assets/images/img_1024.png": "c711c9c9d51da567ad756ab960c84e73",
 "assets/assets/images/img_192.png": "ab990ffe589b443423226bee94976a9b",
 "assets/assets/images/img_256.ico": "f39499036b32b6a3ea01b15f180258b2",
@@ -14,7 +18,7 @@ const RESOURCES = {
 "assets/assets/images/Zoom%2520Background%2520(white).png": "72d29b27ae05ff929453b5d33e1ebb38",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "1c1af7a96477dd23b121bf6b33c55714",
+"assets/NOTICES": "bf6f9782fb6ae8684a3d88fee4a0e664",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
@@ -26,9 +30,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "f9ec1ef45943a0b73d76225bf3e9b212",
 "icons/Icon-maskable-192.png": "a18ac21bdcf400acb56bad8fbb5e4e7d",
 "icons/Icon-maskable-512.png": "f9ec1ef45943a0b73d76225bf3e9b212",
-"index.html": "ce0dd9fda5b2d45ae19160f9fb9c0caf",
-"/": "ce0dd9fda5b2d45ae19160f9fb9c0caf",
-"main.dart.js": "1467b303d40ca01d065a84422ab23aaa",
+"index.html": "32dbabfaf8b912c40defec48d3e759e3",
+"/": "32dbabfaf8b912c40defec48d3e759e3",
+"main.dart.js": "de1ab730c1d9d29e31cbaaf9ece5d554",
 "manifest.json": "5624eaaa2377e7ac9e9b0867fae377ae",
 "version.json": "b999306c39c986277db580998b837e19"
 };
