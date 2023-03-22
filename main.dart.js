@@ -34831,7 +34831,7 @@ A.Fd.prototype={
 O(a){return A.Fc(B.d_,A.a([this.c,A.uh(B.AA,B.c4,B.fv,B.bA)],t.E),B.e1)}}
 A.oz.prototype={
 O(a){var s=null
-return A.fV(s,A.z0(new A.yu("assets/images/dominoLogo.png","Dominoes Note","- App keep and add your score. \n- Support seven languages such as Spanish, Mandarin, Hindi, German, Arabic, Portuguese and English automatically depending on your device language. \n- Dark and Light Mode support depending on device setting.","https://apps.apple.com/us/app/dominoes-note/id1628874710","https://play.google.com/store/apps/details?id=acesoftware365.com.dominonote&hl=en_US&gl=US","images/appStore.png".toLowerCase(),"images/googleStore.png".toLowerCase(),s),s,s),s,new A.dT(B.fx,s,s,B.vo,B.Af,s,B.ao),360,s,s,300)}}
+return A.fV(s,A.z0(new A.yu("assets/images/dominoLogo.png","Dominoes Note","- App keep and add your score. \n- Support seven languages such as Spanish, Mandarin, Hindi, German, Arabic, Portuguese and English automatically depending on your device language. \n- Dark and Light Mode support depending on device setting.","https://apps.apple.com/us/app/dominoes-note/id1628874710","https://play.google.com/store/apps/details?id=acesoftware365.com.dominonote&hl=en_US&gl=US","assets/images/appStore.png","assets/images/googleStore.png",s),s,s),s,new A.dT(B.fx,s,s,B.vo,B.Af,s,B.ao),360,s,s,300)}}
 A.yu.prototype={
 O(a){var s,r=this,q=null,p=r.c
 A.ye("Testing: "+p)
