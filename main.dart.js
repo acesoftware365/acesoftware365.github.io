@@ -34808,7 +34808,7 @@ aq(){return new A.I_(B.k)}}
 A.I_.prototype={
 O(a){return B.DV}}
 A.Co.prototype={
-O(a){return new A.t2(B.yz,"Ace software Website vrs 10",A.aeK(null,B.fy,null),!1,null)}}
+O(a){return new A.t2(B.yz,"Ace software Website vrs 1",A.aeK(null,B.fy,null),!1,null)}}
 A.Cp.prototype={
 O(a){var s=t.E,r=A.uh(A.a([B.um,A.lL(A.TA("assets/images/img_192.png"),56,null),B.JI],s),B.c4,B.bd,B.bA)
 return A.aei(A.acj(A.a([B.um,A.a1l(A.aaB("Home",B.uA,null,null),new A.Vz()),A.a1l(B.JK,new A.VA()),A.a1l(B.JJ,new A.VB()),A.a1l(B.JM,new A.VC()),B.yp],s),B.fx,40,r),B.fy,B.E3)}}
