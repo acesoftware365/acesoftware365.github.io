@@ -32007,7 +32007,7 @@ al(){return new A.FV(B.k)}}
 A.FV.prototype={
 M(a){return B.Dd}}
 A.Av.prototype={
-M(a){return new A.r1(B.yg,"Ace software Website vrs 3",A.aaL(null,B.ft,null),!1,null)}}
+M(a){return new A.r1(B.yg,"Ace software Website vrs 1",A.aaL(null,B.ft,null),!1,null)}}
 A.Aw.prototype={
 M(a){var s=t.E,r=A.te(A.b([B.ud,A.jq(A.QU("assets/images/img_192.png"),56,null),B.IZ],s),B.c1,B.bc,B.bx)
 return A.aam(A.a8A(A.b([B.ud,A.Zi(A.a7_("Home",B.HF,null,null),new A.SL()),A.Zi(B.J0,new A.SM()),A.Zi(B.J_,new A.SN()),A.Zi(B.J2,new A.SO()),B.y6],s),B.fs,40,r),B.ft,B.Dm)}}
