@@ -34761,7 +34761,7 @@ al(){return new A.HV(B.k)}}
 A.HV.prototype={
 N(a){return B.E8}}
 A.Ck.prototype={
-N(a){return new A.t_(B.yJ,"Ace software Website vrs 1",A.aez(null,B.fC,null),!1,null)}}
+N(a){return new A.t_(B.yJ,"Ace software Website vrs 2",A.aez(null,B.fC,null),!1,null)}}
 A.Cl.prototype={
 N(a){return A.ae8(A.aqC(),B.fC,B.x4)}}
 A.yp.prototype={
@@ -34794,7 +34794,7 @@ A.J4.prototype={
 N(a){return A.Bz("assets/images/img_1024.png")}}
 A.Eq.prototype={
 N(a){var s=null,r=t.F
-return A.OX(A.a([A.acV(new A.dl(B.yo,A.ez(s,new A.dl(B.am,A.ez(s,B.DV,s,new A.d5(B.ld,s,s,B.ks,s,s,B.a1),s,s,s,s),s),s,new A.d5(B.dG,s,s,B.ks,s,s,B.a1),s,s,s,1080),s),6),new A.jk(4,B.da,new A.F7(A.OX(A.a([new A.jk(6,B.da,A.ez(s,s,B.fC,s,s,s,s,s),s),new A.jk(4,B.da,A.ez(s,A.ue(B.A4,B.d7,B.bf,B.bC),s,new A.d5(B.dG,s,s,B.vw,B.lZ,s,B.a1),s,s,s,s),s)],r),B.bf),s),s)],r),B.bf)}}
+return A.OX(A.a([A.acV(new A.dl(B.yo,A.ez(s,new A.dl(B.am,A.ez(s,B.DV,s,new A.d5(B.ld,s,s,B.ks,s,s,B.a1),s,s,s,s),s),s,new A.d5(B.dG,s,s,B.ks,s,s,B.a1),s,s,s,1000),s),6),new A.jk(4,B.da,new A.F7(A.OX(A.a([new A.jk(6,B.da,A.ez(s,s,B.fC,s,s,s,s,s),s),new A.jk(4,B.da,A.ez(s,A.ue(B.A4,B.d7,B.bf,B.bC),s,new A.d5(B.dG,s,s,B.vw,B.lZ,s,B.a1),s,s,s,s),s)],r),B.bf),s),s)],r),B.bf)}}
 A.F7.prototype={
 N(a){var s="Big Words Display",r="- The ease way to display a text on your device.",q="https://apps.apple.com/us/app/big-words-display/id1631914389",p="https://play.google.com/store/apps/details?id=acesoftware365.com.bigwords",o="assets/images/appStore.png",n="assets/images/googleStore.png",m="assets/images/bigWordsLogo.png",l=t.F
 return A.F6(B.d0,A.a([this.c,A.ue(A.a([A.aaw("- App keep and add your score. \n- Support seven languages such as Spanish, Mandarin, Hindi, German, Arabic, Portuguese and English automatically depending on your device language. \n- Dark and Light Mode support depending on device setting.","Dominoes Note","https://apps.apple.com/us/app/dominoes-note/id1628874710",o,"1","https://play.google.com/store/apps/details?id=acesoftware365.com.dominonote&hl=en_US&gl=US",n,"assets/images/dominoLogo.png"),A.aaw(r,s,q,o,"2",p,n,m),A.aaw(r,s,q,o,"3",p,n,m)],l),B.c6,B.fA,B.bC)],l),B.e4)}}
@@ -62105,7 +62105,7 @@ B.x2=new A.LU()
 B.l9=new A.yP(0,"pixel")
 B.x3=new A.qd(null,null,null,null,null,null,null)
 B.Eh=new A.Eq(null)
-B.FE=new A.hx(1080,1920,B.Eh,null)
+B.FE=new A.hx(1000,1000,B.Eh,null)
 B.x4=new A.qe(B.ab,null,null,B.FE,null)
 B.x5=new A.qf(null,null,null,null,null,null,null,null,null)
 B.x6=new A.qg(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
