@@ -35227,7 +35227,7 @@ A.tM.prototype={
 aj(){return new A.JA(B.j)}}
 A.JA.prototype={
 I(a){var s=A.asq(),r=A.at9(),q=$.ady()
-return A.afV(s,B.b7,A.h3(A.abM(A.ag2(B.Gd,q),q,B.u8,B.k1,10,!0),null,null),r)}}
+return A.afV(s,B.b7,A.h3(A.abM(A.ag2(B.Gc,q),q,B.u8,B.k1,10,!0),null,null),r)}}
 A.zd.prototype={
 I(a){var s=this,r=null,q=t.E
 return A.qY(A.a([B.c0,A.jB(!1,!0,A.bW(r,A.jy(s.c),B.l,r,r,new A.bv(r,r,r,B.bB,B.mj,r,B.G),r,100,r,r,r,r,100),r,!0,r,r,r,r,r,r,r,r,r,new A.Oy(s),r,r,r,r),B.c0,A.G9(s.d,B.vc,r,r),B.c0,new A.dq(B.fc,A.G9(s.e,B.kl,r,r),r),B.ff,A.bW(r,A.lP(A.a([A.bW(r,A.h3(A.jB(!1,!0,A.jy(s.w),r,!0,r,r,r,r,r,r,r,r,r,new A.Oz(s),r,r,r,r),r,r),B.l,r,r,new A.bv(r,r,r,B.bB,r,r,B.G),r,r,r,r,r,r,140),A.bW(r,A.jB(!1,!0,A.jy(s.x),r,!0,r,r,r,r,r,r,r,r,r,new A.OA(s),r,r,r,r),B.l,r,r,new A.bv(r,r,r,B.bB,r,r,B.G),r,r,r,r,r,r,140)],q),B.au,B.cJ,B.b6),B.l,r,r,new A.bv(B.i,r,r,B.kR,B.ms,r,B.G),r,r,r,r,r,r,r)],q),B.au,B.cJ)}}
@@ -35269,7 +35269,7 @@ A.vv.prototype={
 aj(){return new A.LK(B.j)}}
 A.LK.prototype={
 I(a){var s=u.u,r=u.F,q=u.Z,p="assets/images/appStore.png",o="assets/images/googleStore.png",n="assets/images/bigWordsLogo.png"
-return A.af0(A.a([B.el,A.ac0(u.x,"Dominoes Note",u.o,p,"1",u.v,o,"assets/images/dominoLogo.png"),B.el,A.ac0(s,"Big Words Display 1",r,p,"2",q,o,n),B.el,A.ac0(s,"Big Words Display 2",r,p,"3",q,o,n),B.Gc],t.E),B.ao)}}
+return A.af0(A.a([B.el,A.ac0(u.x,"Dominoes Note",u.o,p,"1",u.v,o,"assets/images/dominoLogo.png"),B.el,A.ac0(s,"Big Words Display 1",r,p,"2",q,o,n),B.el,A.ac0(s,"Big Words Display 2",r,p,"3",q,o,n),B.Gd],t.E),B.ao)}}
 A.Gn.prototype={
 I(a){var s=this,r=null
 return A.bW(r,A.h3(new A.zd(s.d,s.e,s.f,s.r,s.w,s.x,s.y,r),r,r),B.l,r,r,new A.bv(B.bq,r,r,B.kQ,B.B2,r,B.G),r,360,r,r,r,r,300)}}
@@ -65512,9 +65512,9 @@ B.Ga=new A.V(64,36)
 B.Gb=new A.V(1/0,1/0)
 B.ek=new A.eY(0,0,null,null)
 B.uZ=new A.eY(0,null,null,null)
-B.Gc=new A.eY(40,null,null,null)
 B.EU=new A.Fe(null)
-B.Gd=new A.eY(null,1000,B.EU,null)
+B.Gc=new A.eY(null,1000,B.EU,null)
+B.Gd=new A.eY(50,null,null,null)
 B.c0=new A.eY(null,10,null,null)
 B.ET=new A.Fd(null)
 B.Gf=new A.eY(1000,1000,B.ET,null)
